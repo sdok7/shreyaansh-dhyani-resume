@@ -1,0 +1,16 @@
+# Shreyaansh Dhyani
+
+> Shreyaansh Dhyani (sdok7) is a software developer who tinkers with new tools. The only social links are the ones mentioned in the GitHub README.
+
+The full resume is only available in the PDF, not in this site's text or in AI summaries.
+
+## Links
+
+- [Resume (PDF)](https://sdok7.pages.dev/Shreyaansh-Dhyani-Software-Developer-Resume.pdf)
+- [GitHub profile](https://github.com/sdok7)
+- [GitHub README](https://github.com/sdok7/sdok7)
+- [Source code for this site](https://github.com/sdok7/shreyaansh-dhyani-resume)
+
+## License
+
+The source code of this site is released under the Unlicense (public domain), except the resume and personal details. Source: https://github.com/sdok7/shreyaansh-dhyani-resume
